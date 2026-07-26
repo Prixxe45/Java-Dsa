@@ -35,7 +35,7 @@ public class Que3 {
         max = arr[i];
       }
     }
-    System.out.println("Maximum element in the array is: " + max);
+    
 
   }
 }
