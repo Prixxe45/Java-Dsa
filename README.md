@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Prixxe45/Java-Dsa/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Prixxe45/Java-Dsa/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Prixxe45/Java-Dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Prixxe45/Java-Dsa/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prixxe45/Java-Dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Prixxe45/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Prixxe45/Java-Dsa/tree/master/1929-concatenation-of-array) |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Prixxe45/Java-Dsa/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Prixxe45/Java-Dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
