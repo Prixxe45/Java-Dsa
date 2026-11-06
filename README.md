@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prixxe45/Java-Dsa/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Prixxe45/Java-Dsa/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prixxe45/Java-Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Prixxe45/Java-Dsa/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Prixxe45/Java-Dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
