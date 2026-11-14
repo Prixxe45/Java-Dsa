@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prixxe45/Java-Dsa/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Prixxe45/Java-Dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Prixxe45/Java-Dsa/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Prixxe45/Java-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Prixxe45/Java-Dsa/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prixxe45/Java-Dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Prixxe45/Java-Dsa/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -53,5 +55,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prixxe45/Java-Dsa/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Prixxe45/Java-Dsa/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
