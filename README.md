@@ -11,6 +11,7 @@
 | [0485-max-consecutive-ones](https://github.com/Prixxe45/Java-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Prixxe45/Java-Dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prixxe45/Java-Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Prixxe45/Java-Dsa/tree/master/0867-transpose-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prixxe45/Java-Dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Prixxe45/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Prixxe45/Java-Dsa/tree/master/1929-concatenation-of-array) |
@@ -21,6 +22,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Prixxe45/Java-Dsa/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Prixxe45/Java-Dsa/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Prixxe45/Java-Dsa/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Prixxe45/Java-Dsa/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
