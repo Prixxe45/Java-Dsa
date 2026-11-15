@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Prixxe45/Java-Dsa/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Prixxe45/Java-Dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Prixxe45/Java-Dsa/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Prixxe45/Java-Dsa/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Prixxe45/Java-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Prixxe45/Java-Dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prixxe45/Java-Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -57,4 +58,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Prixxe45/Java-Dsa/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Prixxe45/Java-Dsa/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Prixxe45/Java-Dsa/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
